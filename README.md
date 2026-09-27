@@ -149,17 +149,16 @@
 <img src="https://cdn.phototourl.com/member/2026-09-27-13b0bab5-534b-4fdc-9a9f-c558d94edeea.png" height = "300" width = "400">
 
 <h3> Game-Hub portfolio: </h3>
-<img src="https://cdn.phototourl.com/member/2026-09-27-13b0bab5-534b-4fdc-9a9f-c558d94edeea.png" height = "300" width = "400">
+<img src="https://cdn.phototourl.com/member/2026-09-27-784e3960-b7a4-4306-92b7-a7b5d120ddc5.png" height = "300" width = "400">
 
 <h3> To Do List: </h3>
-<img src="https://cdn.phototourl.com/member/2026-09-27-13b0bab5-534b-4fdc-9a9f-c558d94edeea.png" height = "300" width = "400">
+<img src="https://cdn.phototourl.com/member/2026-09-27-9f7cd255-843e-411e-861e-f224232c786e.png" height = "300" width = "400">
 
 <h3> E-commerce web-able: </h3>
-<img src="https://cdn.phototourl.com/member/2026-09-27-13b0bab5-534b-4fdc-9a9f-c558d94edeea.png" height = "300" width = "400">
+<img src="https://cdn.phototourl.com/member/2026-09-27-37d31d1b-9519-4d5c-acb9-da762247f921.png" height = "300" width = "400">
 
 <h3> Best cricket player list: </h3>
-<img src="https://cdn.phototourl.com/member/2026-09-27-13b0bab5-534b-4fdc-9a9f-c558d94edeea.png" height = "300" width = "400">
-
+<img src="https://cdn.phototourl.com/member/2026-09-27-ccf412f9-6f8b-44b7-b31a-5c5f2023b821.png" height = "300" width = "400">
 
 <h1>What work we divided:<h1>
 
@@ -234,15 +233,13 @@
 <h3>14. Quote Vault: <a href= "https://quote-aks-byteforce.netlify.app/">https://quote-aks-byteforce.netlify.app/</a> </h3>
 
 
-<h3>15. To Do List:  <a href= "https://tic-tac-toe-aks-byteforce.netlify.app/">https://tic-tac-toe-aks-byteforce.netlify.app/</a> </h3>
+<h3>15. To Do List:  <a href= "https://to-do-list-aks-byteforce.vercel.app/">https://to-do-list-aks-byteforce.vercel.app/</a> </h3>
 
-<h3>16. Best Cricket Player List: <a href= "https://books-recommendation-aks-byteforce.netlify.app/">https://books-recommendation-aks-byteforce.netlify.app/</a> </h3>
+<h3>16. Best Cricket Player List: <a href= "https://crick-aks-byteforce.vercel.app/">https://crick-aks-byteforce.vercel.app/</a> </h3>
 
-<h3>17. Game-Hub Portfolio: <a href= "https://quote-aks-byteforce.netlify.app/">https://quote-aks-byteforce.netlify.app/</a> </h3>
+<h3>17. Game-Hub Portfolio: <a href= "https://gamehub-aks-byteforce.netlify.app/">https://gamehub-aks-byteforce.netlify.app/</a> </h3>
 
-<h3>18. E-commerce Web-able: <a href= "https://quote-aks-byteforce.netlify.app/">https://quote-aks-byteforce.netlify.app/</a> </h3>
-
-
+<h3>18. E-commerce Web-able: <a href= "https://mart-aks-byteforce.vercel.app/">https://mart-aks-byteforce.vercel.app/</a> </h3>
 
 
 
