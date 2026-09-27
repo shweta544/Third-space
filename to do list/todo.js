@@ -293,7 +293,7 @@ document.getElementById("search")
     if(
         event.key === "Enter"
     ){
-        addTak();
+        addTask();
     }
 });
 
